@@ -1,3 +1,5 @@
+% Solves analytically for C
+
 clear
 clc
 
