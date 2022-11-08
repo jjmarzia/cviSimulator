@@ -23,4 +23,4 @@ conds = [cond1 cond2];
 CSol(z) = dsolve(ode, conds)
 CSol = simplify(CSol)
 
-fplot(z, CSol)
+%fplot(z, CSol)
