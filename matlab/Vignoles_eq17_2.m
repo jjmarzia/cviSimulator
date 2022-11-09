@@ -3,7 +3,7 @@
 clear
 clc
 
-figure(3)
+figure(1)
 for C = 1:3:21
 khet = 1; Ms = 40.11e-3; rhos = 3.217e3;
 t = linspace(0,50000,100);
